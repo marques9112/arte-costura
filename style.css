@@ -1,0 +1,75 @@
+*{margin: 0px;
+    background-color: rgb(242, 214, 214);
+}
+
+#arte1{
+    font-size: 150px;
+    text-align: center;
+    font-weight: 300;
+    font-family: "truculenta";
+    
+}
+
+#arte2{
+    font-size: 80px;
+    text-align: center;
+    font-weight: 200;
+    font-family: "truculenta";
+}
+
+#fotoarte{
+    width: 1400px;
+    height: 400px;
+}
+
+#lista{
+    font-size: 35px;
+    margin-left: 50px;
+    margin-right: -150px;
+    color: rosybrown;
+}
+
+#listasefotos{
+    display: grid;
+    grid-auto-flow: column;
+    columns: right;
+}
+
+.fotocostura{
+    width: 200px;
+    height: 150px;
+}
+
+
+#redes{
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    font-size: 35px;
+    margin-left: 50px;
+    color: rosybrown;
+    margin-bottom: 100px;
+    display:grid ;
+    grid-auto-flow: column;
+    
+
+}#redessociais{
+    font-size: 35px;
+    color: rosybrown;
+    margin-left: 50px;
+}
+
+
+#tesoura{
+    margin-left: 200px;
+    margin-top: -100px;
+   
+}
+
+#vestido{
+    margin-left: 550px;
+    width: 300px;
+    height: 200px;
+    margin-top: 250px;
+}
+
